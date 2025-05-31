@@ -2,11 +2,11 @@
 
 A simple and responsive Weather App built using HTML, CSS, and JavaScript that allows users to search for a city and get the current weather data using the OpenWeatherMap API.
 
-🚀 Features
+# Features 🚀
 
 🔍 Search weather by city name
 
-🌡️ Display temperature, weather description, humidity, and wind speed
+🌡️  Display temperature, weather description, humidity, and wind speed
 
 🌦️ Weather icon based on current condition
 
@@ -14,7 +14,7 @@ A simple and responsive Weather App built using HTML, CSS, and JavaScript that a
 
 🔄 Error handling for invalid city names
 
-🛠️ Tech Stack
+# Tech Stack 🛠️
 
 HTML – Structure
 
@@ -24,7 +24,7 @@ JavaScript – Logic, API calls, DOM manipulation
 
 API – OpenWeatherMap
 
-✨ Example Usage
+# Example Usage ✨
 
 Type "New York" in the search field and press enter
 
